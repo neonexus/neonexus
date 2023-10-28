@@ -9,7 +9,9 @@
 
 ⚡ Fun fact: alcohol is yeast poop.
 
+<!--
 ![NeoNexus' GitHub stats](https://github-readme-stats.vercel.app/api?username=neonexus&show_icons=true)
+-->
 
 <!--
 Gasp! You found the hidden message!
